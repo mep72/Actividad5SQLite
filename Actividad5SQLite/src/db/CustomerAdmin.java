@@ -12,7 +12,7 @@ public class CustomerAdmin {
 	private static final String APP_VERSION = "v1.0";
 	// 1. Base de datos a conectarse en la variable llamada DB
 	// Escribe tu codigo aqui {
-	static final String DB = "Chinook.db";
+	static final String DB = "/home/marioaep/git/Actividad5SQLite/Actividad5SQLite/src/database/Chinook.db";
 
 	// }
 	// String con 100 guiones
